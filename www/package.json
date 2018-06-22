@@ -1,0 +1,27 @@
+{
+  "name": "experiment-web",
+  "description": "Web interface based on Angular",
+  "homepage": "https://github.com/lakhanmandloi/experiment-mean#readme",
+  "author": {
+    "name": "Lakhan Mandloi",
+    "email": "lakhansinghmandloi1@gmail.com",
+    "url": "https://www.linkedin.com/in/lakhanmandloi/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakhanmandloi/experiment-mean.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakhanmandloi/experiment-mean/issues"
+  },
+  "main": "index.js",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {},
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "scripts": {},
+  "dependencies": {}
+}

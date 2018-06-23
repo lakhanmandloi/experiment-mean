@@ -1,5 +1,3 @@
----
----
 
 ## Users Table
 

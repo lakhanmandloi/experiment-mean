@@ -1,11 +1,12 @@
 ## Users Table
 
-id | alias | firstName | lastName | email | dob | password | profilePic
+| id | alias | firstName | lastName | email | dob | password | profilePic |
+
 
 
 ## Sessions Table
 
-id | userid | email | sessionId
+| id | userid | email | sessionId |
 
 ## Endpoint - users/
 

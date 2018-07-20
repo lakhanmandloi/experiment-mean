@@ -11,7 +11,7 @@ id | userid | email | sessionId
 
 ## Endpoint - users/
 
-GET -> users/ -> get list of users
+GET -> users/ -> get list of all users
 GET -> users/:alias -> get specific user details
 POST -> users/create -> Create User
 POST -> users/:alias/update/ -> 
